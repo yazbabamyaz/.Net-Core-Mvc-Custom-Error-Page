@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExamErrorPage2", "ExamErrorPage2.csproj", "{71CED8B5-1033-421D-A092-C615B12A766C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71CED8B5-1033-421D-A092-C615B12A766C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71CED8B5-1033-421D-A092-C615B12A766C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71CED8B5-1033-421D-A092-C615B12A766C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71CED8B5-1033-421D-A092-C615B12A766C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AA409E8-A1C4-4446-B455-039C525024E7}
+	EndGlobalSection
+EndGlobal
